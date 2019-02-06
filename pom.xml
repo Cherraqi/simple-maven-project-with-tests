@@ -24,6 +24,13 @@
                 <version>4.0.0</version>
             </plugin>
         </plugins>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-checkstyle-plugin</artifactId>
+                <version>4.0.0</version>
+            </plugin>
+        </plugins>
     </build>
     <dependencies>
         <dependency>
